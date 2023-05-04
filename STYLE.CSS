@@ -1,0 +1,49 @@
+ *{
+   background-color: rgb(214, 226, 234);
+ }
+ h1{
+    text-align: center    ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: #7b2a2a;
+    background: linear-gradient(235deg, #211a2b #2ebf91 );
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+
+ }
+ .card{
+   max-width: 450px;
+    text-align: center;
+    padding: 0px;
+    margin:  0 auto;
+    box-shadow: 0px 5px 10 px  10px rgba(23, 23, 23, 0.615);
+    transition: 0.4s;
+    font-size: 0px;
+    
+ }
+ .card:hover{
+   box-shadow: 00px 0px 30px  10px rgba(12, 79, 82, 0.615);
+ }
+ .calc-head #result{
+  width:442px;
+  height:100px;
+  text-align: right;
+  font-weight: bold;
+  font-size: 35px;
+ }
+ .cacl-body{
+ 
+
+ }
+.btn{
+height: 70px;
+width: 103px;
+text-align: center;
+font-weight: bolder;
+font-size: 35px;
+background-color: rgb(103, 143, 143);
+margin: 1px;
+}
+.btn:hover{
+  background-color: rgb(104, 126, 126);
+
+}
